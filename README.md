@@ -1,4 +1,4 @@
-<h4 align="left">Not proficient in:</h4>
+<p align="left">My name is Alejandro and i'm a mid developer not proficient in the following technologies:</p>
 
 ###
 
