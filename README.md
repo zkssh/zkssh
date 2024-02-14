@@ -1,4 +1,8 @@
-<div align="left">
+<h4 align="left">Not proficient in:</h4>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
@@ -54,21 +58,17 @@
   <img src="https://skillicons.dev/icons?i=vim" height="36" alt="vim logo"  />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="36" alt="pytest logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="36" alt="polygon logo"  />
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zkssh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zkssh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
